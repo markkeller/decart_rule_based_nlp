@@ -1,0 +1,20 @@
+name: decart_rbnlp-environment
+channels:
+  - conda-forge
+dependencies:
+  - gensim=3.4.0
+  - ipython=6.4.0
+  - ipywidgets=7.2.1
+  - matplotlib=2.2.2
+  - networkx=2.1
+  - pandas=0.23.2
+  - pymysql=0.8.1
+  - scipy=1.2.8
+  - seaborn=0.8.1
+  - sqlalchemy=1.2.8
+  - urllib3=1.23
+  - pip:
+    - nltk=3.3
+    - pyConTextNLP=0.6.2.0
+    - radnlp=0.2.0.8
+    - textblob=0.15.1

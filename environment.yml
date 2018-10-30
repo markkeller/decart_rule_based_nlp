@@ -21,3 +21,4 @@ dependencies:
     - pyConTextNLP==0.6.2.0
     - radnlp==0.2.0.8
     - textblob==0.15.1
+    - pyyaml==3.12

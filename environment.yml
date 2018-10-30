@@ -15,6 +15,7 @@ dependencies:
   - seaborn=0.8.1
   - sqlalchemy=1.2.8
   - urllib3=1.23
+  - yaml=0.1.7
   - pip:
     - nltk==3.3
     - pyConTextNLP==0.6.2.0

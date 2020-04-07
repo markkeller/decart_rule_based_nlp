@@ -15,7 +15,7 @@ dependencies:
   - seaborn=0.8.1
   - sqlalchemy=1.2.8
   - urllib3=1.23
-  - yaml=0.1.7
+  - yaml>=0.1.7
   - pip=19.1.1
   - pip:
     - nltk==3.3
